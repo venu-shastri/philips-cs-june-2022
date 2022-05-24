@@ -1,0 +1,16 @@
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\bin\Debug\net5.0\ConsoleAppUsingIDE.exe
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\bin\Debug\net5.0\ConsoleAppUsingIDE.deps.json
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\bin\Debug\net5.0\ConsoleAppUsingIDE.runtimeconfig.json
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\bin\Debug\net5.0\ConsoleAppUsingIDE.runtimeconfig.dev.json
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\bin\Debug\net5.0\ConsoleAppUsingIDE.dll
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\bin\Debug\net5.0\ref\ConsoleAppUsingIDE.dll
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\bin\Debug\net5.0\ConsoleAppUsingIDE.pdb
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\obj\Debug\net5.0\ConsoleAppUsingIDE.csproj.AssemblyReference.cache
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\obj\Debug\net5.0\ConsoleAppUsingIDE.GeneratedMSBuildEditorConfig.editorconfig
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\obj\Debug\net5.0\ConsoleAppUsingIDE.AssemblyInfoInputs.cache
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\obj\Debug\net5.0\ConsoleAppUsingIDE.AssemblyInfo.cs
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\obj\Debug\net5.0\ConsoleAppUsingIDE.csproj.CoreCompileInputs.cache
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\obj\Debug\net5.0\ConsoleAppUsingIDE.dll
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\obj\Debug\net5.0\ref\ConsoleAppUsingIDE.dll
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\obj\Debug\net5.0\ConsoleAppUsingIDE.pdb
+E:\phlips_dotnet_core_samples\ConsoleAppUsingIDE\ConsoleAppUsingIDE\obj\Debug\net5.0\ConsoleAppUsingIDE.genruntimeconfig.cache

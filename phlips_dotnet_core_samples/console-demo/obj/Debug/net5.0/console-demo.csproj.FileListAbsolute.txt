@@ -1,0 +1,16 @@
+E:\phlips_dotnet_core_samples\console-demo\bin\Debug\net5.0\console-demo.exe
+E:\phlips_dotnet_core_samples\console-demo\bin\Debug\net5.0\console-demo.deps.json
+E:\phlips_dotnet_core_samples\console-demo\bin\Debug\net5.0\console-demo.runtimeconfig.json
+E:\phlips_dotnet_core_samples\console-demo\bin\Debug\net5.0\console-demo.runtimeconfig.dev.json
+E:\phlips_dotnet_core_samples\console-demo\bin\Debug\net5.0\console-demo.dll
+E:\phlips_dotnet_core_samples\console-demo\bin\Debug\net5.0\ref\console-demo.dll
+E:\phlips_dotnet_core_samples\console-demo\bin\Debug\net5.0\console-demo.pdb
+E:\phlips_dotnet_core_samples\console-demo\obj\Debug\net5.0\console-demo.csproj.AssemblyReference.cache
+E:\phlips_dotnet_core_samples\console-demo\obj\Debug\net5.0\console-demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\phlips_dotnet_core_samples\console-demo\obj\Debug\net5.0\console-demo.AssemblyInfoInputs.cache
+E:\phlips_dotnet_core_samples\console-demo\obj\Debug\net5.0\console-demo.AssemblyInfo.cs
+E:\phlips_dotnet_core_samples\console-demo\obj\Debug\net5.0\console-demo.csproj.CoreCompileInputs.cache
+E:\phlips_dotnet_core_samples\console-demo\obj\Debug\net5.0\console-demo.dll
+E:\phlips_dotnet_core_samples\console-demo\obj\Debug\net5.0\ref\console-demo.dll
+E:\phlips_dotnet_core_samples\console-demo\obj\Debug\net5.0\console-demo.pdb
+E:\phlips_dotnet_core_samples\console-demo\obj\Debug\net5.0\console-demo.genruntimeconfig.cache
