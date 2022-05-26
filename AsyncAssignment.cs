@@ -1,7 +1,6 @@
 using System;
 using System.Threading.Tasks;
-namespace ConsoleApp8
-{
+
     namespace AsyncBreakfast
     {
         class Program
@@ -115,4 +114,4 @@ namespace ConsoleApp8
 
         }
     }
-}
+
