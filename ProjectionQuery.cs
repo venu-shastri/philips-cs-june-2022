@@ -17,11 +17,11 @@ public class PatientInfo{
 	}
 }
 
-public class ProjectionResult{
+/*public class ProjectionResult{
 	
 	public string MRN{get;set;}
 	public string Name{get;set;}
-}
+}*/
 public class Program
 {
 	public static void Main()
@@ -40,8 +40,9 @@ public class Program
 		//"Select MRN,Name as PatientName from patientList where City=="BLR";
 	IEnumerable<PatientInfo> _result=	System.Linq.Enumerable.Where(patientList,(PatientInfo patient)=>{return patient.City=="BLR"; });
 		//Projection
-		IEnumerable<ProjectionResult> _projectionResult= System.Linq.Enumerable.Select(_result,(PatientInfo patient)=>{return new ProjectionResult(){MRN=patient.MRN,Name=patient.Name}; });
-		foreach(ProjectionResult pr in _projectionResult){
+		var _projectionResult= System.Linq.Enumerable.Select(_result,(PatientInfo patient)=>{
+			return new {MRN=patient.MRN,Name=patient.Name}; });
+		foreach(var pr in _projectionResult){
 			Console.WriteLine("{0},{1}",pr.MRN,pr.Name);
 		}
 		
