@@ -86,3 +86,45 @@ public class Program
 	}
 	
 }
+
+//Day-5
+
+public class Patient{
+
+	public string MRN{get;set;}
+	/*
+	public Patient(string mrn){
+	
+		if(mrn==null){
+			throw new ArgumentNullException(nameof(MRN) + " cannot be null");
+		}
+	}*/
+	//Throw Expressions
+	public Patient(string mrn)=> MRN=mrn ?? throw new ArgumentNullException(nameof(MRN) + " cannot be null");
+}
+public class Program
+{
+	public static void Main()
+	{
+		int[] numbers={1,2,345,5,9,7,8};
+		ref int result=ref searchNumber(numbers,345);//result->pointer->numbers[2]
+		Console.WriteLine("Result : "+result);
+		result=1000;
+		Console.WriteLine("Change in Result : "+result);
+		for(int i=0;i<numbers.Length;i++){
+			Console.WriteLine(numbers[i]);
+		}
+		
+	}
+	//ref returns 
+	static ref int searchNumber(int[] source,int number){
+		
+		for(int i=0;i<source.Length;i++){
+			if(source[i]==number){
+				
+				return ref source[i];//value type
+			}
+		}
+		throw new Exception("Element Not Foud");
+	}
+}
